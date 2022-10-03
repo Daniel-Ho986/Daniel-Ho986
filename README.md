@@ -8,7 +8,7 @@ I am a developer who has been coding for 4 years. Besides having a passion for w
 
 * 🌍  I'm based in New York City
 * ✉️  You can contact me at [Daniel.ho0703@gmail.com](mailto:Daniel.ho0703@gmail.com)
-* 🧠  I'm learning React and Python
+* 🧠  I'm learning React
 * 🤝  I'm open to collaborating on interesting projects
 
 ### Skills
