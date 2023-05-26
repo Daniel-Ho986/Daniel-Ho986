@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full-Stack Web Developer
 ------------------------
 
-I am a developer who has been coding for 4 years. Besides having a passion for web development, I am also interested in learning UI/UX and QA.
+I am a developer who has been coding for 4 years. Besides having a passion for web development, I am well versed in React, Vue, TypeScript, Next and AWS.
 
 * 🌍  I'm based in New York City
 * ✉️  You can contact me at [Daniel.ho0703@gmail.com](mailto:Daniel.ho0703@gmail.com)
