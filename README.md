@@ -1,18 +1,15 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Daniel Ho
 =================================================================================================================================
 
-Full-Stack Web Developer
-------------------------
+# 💫 About Me:
+I'm a Full-Stack Web Developer with a focus on JavaScript, TypeScript, React, and Node.js. I enjoy building efficient web applications that enhance user experiences.
 
-I am a developer who has been coding for 4 years. Besides having a passion for web development, I am well versed in React, Vue, TypeScript, Next and AWS.
+* 🔭 I’m currently working on a hotel booking platform with secure authentication
+* 🤝 I’m open to collaborating on interesting projects
+* 🌱 I’m currently learning advanced React
+* ✉️ You can contact me at [Daniel.ho0703@gmail.com](mailto:Daniel.ho0703@gmail.com)
 
-* 🌍  I'm based in New York City
-* ✉️  You can contact me at [Daniel.ho0703@gmail.com](mailto:Daniel.ho0703@gmail.com)
-* 🧠  I'm an excellent communicator and team player
-* 🤝  I'm open to collaborating on interesting projects
-
-### Skills
-
+# 💻 Tech Stack:
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -28,12 +25,13 @@ I am a developer who has been coding for 4 years. Besides having a passion for w
 </p>
 
 
-### Socials
+## 🌐 Socials:
 
 <p align="left"> <a href="https://discord.com/users/KC23X" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/Daniel-Ho986" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/daniel-ho7/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-### Badges
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Daniel-ho986&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
-<b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Daniel-Ho986"><img src="https://github-readme-stats.vercel.app/api?username=Daniel-Ho986&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Daniel-Ho986's GitHub stats" /></a>
+
+
